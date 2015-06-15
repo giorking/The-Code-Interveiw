@@ -1,3 +1,12 @@
+/**************************************************************
+    Problem: 36
+    User: iFighting
+    Language: C++
+    Result: Accepted
+    Time:30 ms
+    Memory:25024 kb
+****************************************************************/
+
 class Solution {
 public:
 	int sortWithSwap(vector<int> &a) {
