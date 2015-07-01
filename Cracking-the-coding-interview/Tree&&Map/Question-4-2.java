@@ -7,10 +7,6 @@
  * };
  */
 public class Solution {
-    /**
-     * @param nodes a array of Directed graph node
-     * @return a connected set of a directed graph
-     */
     public boolean connectedSet2(ArrayList<DirectedGraphNode> nodes, DirectedGraphNode start, DirectedGraphNode end) {    	
         // Write your code here
     }
